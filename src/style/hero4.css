@@ -1,0 +1,133 @@
+.hero4{
+    width:100%;
+}
+.top-h4 span{
+    margin-left: 10px; 
+    color: #668E19; 
+}
+.hero-4{
+    height: auto;
+    width: 100%;
+    background-color:white ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-between;
+}
+.top-h4 h1{
+    display: flex;
+    justify-content: center;
+}
+.bottom-h4 {
+    height: 70%;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.box-1{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-2{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-3{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.box-4{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.circle1{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border : 5px solid #FF831D;
+}
+.circle2{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    border : 5px solid #ED7C76;
+}
+.circle3{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border : 5px solid #668E19;
+}
+.circle4{
+    height: 80%;
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border : 5px solid #D1D3D4;
+}
+.top-h4 h1{
+    font-size: 3em;
+}
+.top-h4{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.top-h4 p{
+    text-align: center;
+    width: 70%;
+    color: #BCBEC0;
+}
+.circle1 p{
+    font-size: xx-large;
+    color:#FF831D ;
+    font-weight: bolder;
+}
+.circle2 p{
+    font-size: xx-large;
+    color:#ED7C76 ;
+    font-weight: bolder;
+}
+.circle3 p{
+    font-size: xx-large;
+    color:#668E19 ;
+    font-weight: bolder;
+}
+.circle4 p{
+    font-size: xx-large;
+    color:#D1D3D4 ;
+    font-weight: bolder;
+}
