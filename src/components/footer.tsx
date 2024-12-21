@@ -13,7 +13,7 @@ export default function Footer(){
              <h1>DI</h1>
              </div>
              <p className="paragraph">
-             Crafting innovative solutions with passion and precision. Let's build something extraordinary together!
+             Crafting innovative solutions with passion and precision. Lets build something extraordinary together!
                 </p>
                 <p className="copyright">&copy;Panacloud <span>2019</span></p>
         </div>
